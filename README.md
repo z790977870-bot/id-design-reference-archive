@@ -23,7 +23,11 @@
 
 发布地址格式：`https://<GitHub用户名>.github.io/id-design-reference-archive/`。
 
-若使用当前已连接账号 `z790977870-bot`，预计地址为 `https://z790977870-bot.github.io/id-design-reference-archive/`；此地址仅在该账号完成建仓和 Pages 部署后才会生效。
+本项目已创建公开仓库并启用 Pages（`main` / 根目录）：
+
+- 仓库：https://github.com/z790977870-bot/id-design-reference-archive
+- 网站：https://z790977870-bot.github.io/id-design-reference-archive/
+- Pages 设置：https://github.com/z790977870-bot/id-design-reference-archive/settings/pages
 
 官方说明：https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
