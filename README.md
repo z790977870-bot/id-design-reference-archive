@@ -27,6 +27,7 @@
 
 - 仓库：https://github.com/z790977870-bot/id-design-reference-archive
 - 网站：https://z790977870-bot.github.io/id-design-reference-archive/
+- 包含公司全称的隐私政策链接：https://z790977870-bot.github.io/id-design-reference-archive/深圳市博思纵横设计有限公司/privacy.html
 - Pages 设置：https://github.com/z790977870-bot/id-design-reference-archive/settings/pages
 
 官方说明：https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
@@ -37,4 +38,4 @@
 
 ## 更新
 
-修改 `index.html` 并提交到 `main`。配置好 Pages 后会自动重新发布。此页面用于披露应用的数据处理方式，不代表 Pinterest 已批准应用或其数据使用方式。
+修改 `index.html` 后，将同样内容同步到 `深圳市博思纵横设计有限公司/privacy.html`，再提交到 `main`。两个地址提供相同政策。配置好 Pages 后会自动重新发布。此页面用于披露应用的数据处理方式，不代表 Pinterest 已批准应用或其数据使用方式。
